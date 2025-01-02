@@ -1,3 +1,6 @@
+
+OKX Wallet : 0x82cdda714059789939a41e61c856102c22290289
+
 apt update && apt install neofetch && neofetch
 
 
